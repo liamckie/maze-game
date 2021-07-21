@@ -1,0 +1,14 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\maze.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.csprojAssemblyReference.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\obj\Debug\netcoreapp3.1\maze.genruntimeconfig.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\maze\bin\Debug\netcoreapp3.1\Lvl1.txt
